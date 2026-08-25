@@ -1,43 +1,43 @@
 {
-  "id": 76641981,
-  "name": "TG1-EM1",
-  "Stats": {
-    "type": "Trap Card",
-    "frameType": "trap",
-    "race": "Normal"
-  },
-  "Rulings": {
-    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
-    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets your face-up \"T.G.\" monster and any monster your opponent controls.\\n3. If the target \"T.G.\" monster is face-down when this card resolves, you still switch control of it with the other target monster.\\n4. If you don't control the target \"T.G.\" monster when this card resolves, you do not take control of your opponent's monster.\\n5. If this card is activated targeting an attacking monster, the attack stops after control of the targets switches."
-  },
-  "PSCT": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No updated text available for this card.",
-    "Goat": "No updated text available for this card.",
-    "HAT": "No updated text available for this card.",
-    "Vegas": "No updated text available for this card.",
-    "Meadowlands": "No updated text available for this card.",
-    "FireWater": "No updated text available for this card.",
-    "Cat": "No updated text available for this card.",
-    "TeleDAD": "No updated text available for this card.",
-    "Gladiator": "No updated text available for this card.",
-    "ReturnDAD": "No updated text available for this card.",
-    "Trooper": "No updated text available for this card.",
-    "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card.",
-    "Base": "Target 1 monster your opponent controls and 1 \"T.G.\" monster you control; switch control of both monsters."
-  }
+	"id": 76641981,
+	"name": "TG1-EM1",
+	"Stats": {
+		"type": "Trap Card",
+		"frameType": "trap",
+		"race": "Normal"
+	},
+	"Rulings": {
+		"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Tengu": "● If the target \"T.G.\" monster is face-down when this card resolves, control of the targets still switch. \n● If either monster is not on the field when the card resolves, control of the other monster does not change.\n● If this card targets an attacking monster, it is no longer considered \"attacking\" after the effect resolves.\n● If chained to \"Dimensional Prison\", the formerly attacking monster is not banished.",
+		"Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Base": "1. You cannot activate this card during the Damage Step.\\n2. This card targets your face-up \"T.G.\" monster and any monster your opponent controls.\\n3. If the target \"T.G.\" monster is face-down when this card resolves, you still switch control of it with the other target monster.\\n4. If you don't control the target \"T.G.\" monster when this card resolves, you do not take control of your opponent's monster.\\n5. If this card is activated targeting an attacking monster, the attack stops after control of the targets switches."
+	},
+	"PSCT": {
+		"Edison": "No rulings available for this card.",
+		"Tengu": "No updated text available for this card.",
+		"Goat": "No updated text available for this card.",
+		"HAT": "No updated text available for this card.",
+		"Vegas": "No updated text available for this card.",
+		"Meadowlands": "No updated text available for this card.",
+		"FireWater": "No updated text available for this card.",
+		"Cat": "No updated text available for this card.",
+		"TeleDAD": "No updated text available for this card.",
+		"Gladiator": "No updated text available for this card.",
+		"ReturnDAD": "No updated text available for this card.",
+		"Trooper": "No updated text available for this card.",
+		"Circle": "No updated text available for this card.",
+		"Stein": "No updated text available for this card.",
+		"Base": "Target 1 monster your opponent controls and 1 \"T.G.\" monster you control; switch control of both monsters."
+	}
 }

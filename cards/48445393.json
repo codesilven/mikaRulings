@@ -1,43 +1,43 @@
 {
-  "id": 48445393,
-  "name": "Scrapstorm",
-  "Stats": {
-    "type": "Spell Card",
-    "frameType": "spell",
-    "race": "Quick-Play"
-  },
-  "Rulings": {
-    "Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
-    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-    "Base": "1. You cannot activate \"Scrapstorm\" while you have only 1 card in your Deck.\\n2. This card targets 1 face-up 'Scrap' monster you control. It cannot be activated during the Damage Step.\\n3. None of these effects are simultaneous. You send 1 'Scrap' monster to the GY, then, if you did, you draw a card.\\n4. Afterwards, you destroy the selected monster.\\n5. Even if the targeted monster is no longer face-up on the field when \"Scrapstorm\" resolves, you still send a 'Scrap' monster to the GY and draw a card.\\n6. If the target monster is face-down when this effect resolves, it is still destroyed."
-  },
-  "PSCT": {
-    "Edison": "No rulings available for this card.",
-    "Tengu": "No updated text available for this card.",
-    "Goat": "No updated text available for this card.",
-    "HAT": "No updated text available for this card.",
-    "Vegas": "No updated text available for this card.",
-    "Meadowlands": "No updated text available for this card.",
-    "FireWater": "No updated text available for this card.",
-    "Cat": "No updated text available for this card.",
-    "TeleDAD": "No updated text available for this card.",
-    "Gladiator": "No updated text available for this card.",
-    "ReturnDAD": "No updated text available for this card.",
-    "Trooper": "No updated text available for this card.",
-    "Circle": "No updated text available for this card.",
-    "Stein": "No updated text available for this card.",
-    "Base": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster."
-  }
+	"id": 48445393,
+	"name": "Scrapstorm",
+	"Stats": {
+		"type": "Spell Card",
+		"frameType": "spell",
+		"race": "Quick-Play"
+	},
+	"Rulings": {
+		"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Tengu": "● You cannot activate \"Scrapstorm\" while you have only 1 card in your Deck.\n● None of these effects are simultaneous. You send 1 \"Scrap\" monster to the GY, then draw, then destroy the target.\n● Even if the targeted monster is no longer face-up on the field when \"Scrapstorm\" resolves, you still send and draw.\n● If you cannot send from the deck to the GY, you cannot draw nor do you destroy the targeted monster.\n● If you cannot draw, you do not destroy the targeted monster.",
+		"Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+		"Base": "1. You cannot activate \"Scrapstorm\" while you have only 1 card in your Deck.\\n2. This card targets 1 face-up 'Scrap' monster you control. It cannot be activated during the Damage Step.\\n3. None of these effects are simultaneous. You send 1 'Scrap' monster to the GY, then, if you did, you draw a card.\\n4. Afterwards, you destroy the selected monster.\\n5. Even if the targeted monster is no longer face-up on the field when \"Scrapstorm\" resolves, you still send a 'Scrap' monster to the GY and draw a card.\\n6. If the target monster is face-down when this effect resolves, it is still destroyed."
+	},
+	"PSCT": {
+		"Edison": "No rulings available for this card.",
+		"Tengu": "No updated text available for this card.",
+		"Goat": "No updated text available for this card.",
+		"HAT": "No updated text available for this card.",
+		"Vegas": "No updated text available for this card.",
+		"Meadowlands": "No updated text available for this card.",
+		"FireWater": "No updated text available for this card.",
+		"Cat": "No updated text available for this card.",
+		"TeleDAD": "No updated text available for this card.",
+		"Gladiator": "No updated text available for this card.",
+		"ReturnDAD": "No updated text available for this card.",
+		"Trooper": "No updated text available for this card.",
+		"Circle": "No updated text available for this card.",
+		"Stein": "No updated text available for this card.",
+		"Base": "Target 1 \"Scrap\" monster you control; send 1 \"Scrap\" monster from your Deck to the Graveyard, then draw 1 card, then destroy that monster."
+	}
 }
