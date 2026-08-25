@@ -1,43 +1,43 @@
 {
-	"id": 66957584,
-	"name": "Infernity Launcher",
-	"Stats": {
-		"type": "Spell Card",
-		"frameType": "spell",
-		"race": "Continuous"
-	},
-	"Rulings": {
-		"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Tengu": "● If either target is not in the GY when this card resolves, the other target is still Summoned.",
-		"Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Base": "1. Sending this card from the field to the GY is a cost. The effect targets 1 or 2 monsters in your GY. Both effects of \"Infernity Launcher\" start a Chain.\\n2. You can add 'Infernity' cards that are not monsters to your hand with the effect of \"Infernity Archfiend\", including \"Infernity Launcher\".\\n3. If \"Infernity Launcher\" is the only card in your hand you cannot activate it and activate its effect to Special Summon in the same Chain.\\n4. If only 1 of the target monsters is in the GY when the effect to Special Summon resolves, it will still be Special Summoned."
-	},
-	"PSCT": {
-		"Edison": "No rulings available for this card.",
-		"Tengu": "No updated text available for this card.",
-		"Goat": "No updated text available for this card.",
-		"HAT": "No updated text available for this card.",
-		"Vegas": "No updated text available for this card.",
-		"Meadowlands": "No updated text available for this card.",
-		"FireWater": "No updated text available for this card.",
-		"Cat": "No updated text available for this card.",
-		"TeleDAD": "No updated text available for this card.",
-		"Gladiator": "No updated text available for this card.",
-		"ReturnDAD": "No updated text available for this card.",
-		"Trooper": "No updated text available for this card.",
-		"Circle": "No updated text available for this card.",
-		"Stein": "No updated text available for this card.",
-		"Base": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 \"Infernity\" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect."
-	}
+  "id": 66957584,
+  "name": "Infernity Launcher",
+  "Stats": {
+    "type": "Spell Card",
+    "frameType": "spell",
+    "race": "Continuous"
+  },
+  "Rulings": {
+	"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+	"Tengu": "● If either target is not in the GY when this card resolves, the other target is still Summoned.",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Sending this card from the field to the GY is a cost. The effect targets 1 or 2 monsters in your GY. Both effects of \"Infernity Launcher\" start a Chain.\\n2. You can add 'Infernity' cards that are not monsters to your hand with the effect of \"Infernity Archfiend\", including \"Infernity Launcher\".\\n3. If \"Infernity Launcher\" is the only card in your hand you cannot activate it and activate its effect to Special Summon in the same Chain.\\n4. If only 1 of the target monsters is in the GY when the effect to Special Summon resolves, it will still be Special Summoned."
+  },
+  "PSCT": {
+    "Edison": "No rulings available for this card.",
+    "Tengu": "No updated text available for this card.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card.",
+	"Base": "Once per turn: You can send 1 \"Infernity\" monster from your hand to the Graveyard. You can send this card to the Graveyard, then target up to 2 \"Infernity\" monsters in your Graveyard; Special Summon them. You must have no cards in your hand to activate and to resolve this effect."
+  }
 }

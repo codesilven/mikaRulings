@@ -1,43 +1,43 @@
 {
-	"id": 72022087,
-	"name": "Liberty at Last!",
-	"Stats": {
-		"type": "Trap Card",
-		"frameType": "trap",
-		"race": "Normal"
-	},
-	"Rulings": {
-		"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
-		"Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
-		"Base": "1. Note that there is an official revision to the text. This card returns the monsters to the Deck, not to the hand.\\n2. This card targets the 2 monsters.\\n3. You can target Tokens, Fusion Monsters, and Synchro Monsters with this card too. Tokens will simply disappear, and Fusions and Synchro Monsters will return to the Extra Deck.\\n4. You can activate this card when your opponent's monster that you control is destroyed by battle and sent to their GY.\\n5. If one of the targets is no longer face-up on the field when this card resolves, you still return the remaining target.\\n6. If you Chain this card to the effect of \"Rescueroid\" to return \"Rescueroid\" to the Deck, the effect of \"Rescueroid\" will not be applied.\\n7. If a monster attacks and destroys your \"Exploder Dragon\" and sends it to the GY, and you Chain \"Liberty at Last!\" to return that monster to the Deck, it will return to the Deck and not be destroyed by the effect of \"Exploder Dragon\"."
-	},
-	"PSCT": {
-		"Edison": "No rulings available for this card.",
-		"Tengu": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Select 2 face-up monsters on the field and return them to the deck.",
-		"Goat": "No updated text available for this card.",
-		"HAT": "No updated text available for this card.",
-		"Vegas": "No updated text available for this card.",
-		"Meadowlands": "No updated text available for this card.",
-		"FireWater": "No updated text available for this card.",
-		"Cat": "No updated text available for this card.",
-		"TeleDAD": "No updated text available for this card.",
-		"Gladiator": "No updated text available for this card.",
-		"ReturnDAD": "No updated text available for this card.",
-		"Trooper": "No updated text available for this card.",
-		"Circle": "No updated text available for this card.",
-		"Stein": "No updated text available for this card.",
-		"Base": "When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck."
-	}
+  "id": 72022087,
+  "name": "Liberty at Last!",
+  "Stats": {
+    "type": "Trap Card",
+    "frameType": "trap",
+    "race": "Normal"
+  },
+  "Rulings": {
+	"Edison": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+	"Tengu": "No rulings found for this card. Request new rulings at https://discord.gg/MmEZSNeTdX",
+    "Goat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "HAT": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Vegas": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Meadowlands": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "FireWater": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Cat": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "TeleDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Gladiator": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "ReturnDAD": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Trooper": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Circle": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Stein": "No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg",
+    "Base": "1. Note that there is an official revision to the text. This card returns the monsters to the Deck, not to the hand.\\n2. This card targets the 2 monsters.\\n3. You can target Tokens, Fusion Monsters, and Synchro Monsters with this card too. Tokens will simply disappear, and Fusions and Synchro Monsters will return to the Extra Deck.\\n4. You can activate this card when your opponent's monster that you control is destroyed by battle and sent to their GY.\\n5. If one of the targets is no longer face-up on the field when this card resolves, you still return the remaining target.\\n6. If you Chain this card to the effect of \"Rescueroid\" to return \"Rescueroid\" to the Deck, the effect of \"Rescueroid\" will not be applied.\\n7. If a monster attacks and destroys your \"Exploder Dragon\" and sends it to the GY, and you Chain \"Liberty at Last!\" to return that monster to the Deck, it will return to the Deck and not be destroyed by the effect of \"Exploder Dragon\"."
+  },
+  "PSCT": {
+    "Edison": "No rulings available for this card.",
+	"Tengu": "Activate only when a monster you control is destroyed by battle and sent to the Graveyard. Select 2 face-up monsters on the field and return them to the deck.",
+    "Goat": "No updated text available for this card.",
+    "HAT": "No updated text available for this card.",
+    "Vegas": "No updated text available for this card.",
+    "Meadowlands": "No updated text available for this card.",
+    "FireWater": "No updated text available for this card.",
+    "Cat": "No updated text available for this card.",
+    "TeleDAD": "No updated text available for this card.",
+    "Gladiator": "No updated text available for this card.",
+    "ReturnDAD": "No updated text available for this card.",
+    "Trooper": "No updated text available for this card.",
+    "Circle": "No updated text available for this card.",
+    "Stein": "No updated text available for this card.",
+	"Base": "When a monster you control is destroyed by battle and sent to the Graveyard: Target 2 face-up monsters on the field; shuffle those targets into the Deck."
+  }
 }
